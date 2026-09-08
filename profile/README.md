@@ -61,6 +61,11 @@ Jonathan Leaf, Rundong Wu, Eston Schweickart, Doug L. James, Steve Marschner
 
 ## Pixar collaborations
 
+**Phong Deformation: A Better C0 Interpolant for Embedded Deformation** (SIGGRAPH 2020)
+Doug L. James
+- Code: https://www.dropbox.com/scl/fi/77z7d3jtcsp9ikkotou5j/PhongDefoCode_v0.zip?rlkey=9rn6yy7mlp71sbnfosyyyoq2g&dl=0
+- Paper: https://research.pixar.com/docs/2020.SiggraphPapers.J.pdf
+
 **Sharp Kelvinlets: Elastic Deformations with Cusps and Localized Falloffs** (DigiPro 2019)
 Fernando de Goes, Doug L. James
 - Code: https://research.pixar.com/docs/2019.Others.GJ_suppl.zip
