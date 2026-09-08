@@ -1,7 +1,10 @@
 # Code and Data Releases
 
 Research code and datasets from publications by Doug L. James' research group and collaborators.
-Full publication list: https://graphics.stanford.edu/~djames/publications
+
+Group website: https://graphics.stanford.edu/~djames/group  
+Full publication list: https://graphics.stanford.edu/~djames/publications  
+Contact: djames@cs.stanford.edu
 
 ## Stanford
 
