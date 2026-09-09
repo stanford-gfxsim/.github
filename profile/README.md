@@ -32,6 +32,10 @@ Samuel Clarke, Ruohan Gao, Mason Wang, Mark Rau, Julia Xu, Jui-Hsien Wang, Doug 
 - Code: https://github.com/samuel-clarke/RealImpact
 - Dataset: https://samuelpclarke.com/realimpact
 
+**svMorph: Interactive Geometry-Editing Tools for Virtual Patient-Specific Vascular Anatomies** (J Biomech Eng 2023)
+Jonathan Pham, Sofia Wyetzner, Martin R. Pfaller, David W. Parker, Doug L. James, Alison L. Marsden
+- Code: https://github.com/SimVascular/svMorph
+
 **DiffImpact: Differentiable Rendering and Identification of Impact Sounds** (CoRL 2021)
 Samuel Clarke, Negin Heravi, Mark Rau, Ruohan Gao, Jiajun Wu, Doug James, Jeannette Bohg
 - Code: https://github.com/samuel-clarke/diffimpact
@@ -81,12 +85,6 @@ Fernando de Goes, Doug L. James
 - Closed-form solutions in the paper: https://research.pixar.com/docs/2017.SiggraphPapers.GJ.pdf
 - Open-source implementation: `igl::kelvinlets` in libigl (https://libigl.github.io/dox/kelvinlets_8h.html)
 
-## Vascular modeling
-
-**svMorph: Interactive Geometry-Editing Tools for Virtual Patient-Specific Vascular Anatomies** (J Biomech Eng 2023)
-Jonathan Pham, Sofia Wyetzner, Martin R. Pfaller, David W. Parker, Doug L. James, Alison L. Marsden
-- Code: https://github.com/SimVascular/svMorph
-
 ## Cornell
 
 **Eigenmode Compression for Modal Sound Models** (SIGGRAPH 2014)
@@ -130,6 +128,11 @@ Steven An, Theodore Kim, Doug L. James
 Theodore Kim, Nils Thuerey, Doug L. James, Markus Gross
 - Code: http://www.cs.cornell.edu/~tedkim/WTURB/source.html
 
+**FastLSM: Fast Lattice Shape Matching for Robust Real-Time Deformation** (SIGGRAPH 2007)
+Alec R. Rivers, Doug L. James
+- Code (FastLSM library with source, demos): http://www.alecrivers.com/fastlsm
+
+
 ## CMU
 
 **Precomputed Acoustic Transfer** (SIGGRAPH 2006)
@@ -152,7 +155,3 @@ Doug L. James, Christopher D. Twigg, Andrew Cove, Robert Y. Wang
 **Many-Worlds Browsing for Control of Multibody Dynamics** (SIGGRAPH 2007)
 Christopher D. Twigg, Doug L. James
 - Demo: http://graphics.cs.cmu.edu/projects/mwb/demo
-
-**FastLSM: Fast Lattice Shape Matching for Robust Real-Time Deformation** (SIGGRAPH 2007)
-Alec R. Rivers, Doug L. James
-- Code (FastLSM library with source, demos): http://www.alecrivers.com/fastlsm
