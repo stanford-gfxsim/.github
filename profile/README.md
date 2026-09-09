@@ -52,6 +52,7 @@ Mengfan Zhang, Jui-Hsien Wang, Doug L. James
 **KleinPAT: Optimal Mode Conflation for Time-Domain Precomputation of Acoustic Transfer** (SIGGRAPH 2019)
 Jui-Hsien Wang, Doug L. James
 - Code: https://github.com/jhwang7628/openpbso (openpbso, an open-source library for physics-based sound)
+- Licensable code (Stanford OTL, docket S19-130): https://techfinder.stanford.edu/technology/kleinpat-rapid-modal-sound-synthesis-model
 - Dataset: https://graphics.stanford.edu/projects/kleinpat
 
 **Toward Wave-based Sound Synthesis for Computer Animation** (SIGGRAPH 2018)
