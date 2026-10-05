@@ -8,6 +8,12 @@ Contact: djames@cs.stanford.edu
 
 ## Stanford
 
+**BubbleGym: A Practical Shape-to-Frequency Model for Acoustic Bubbles** (SIGGRAPH Asia 2026)
+Zhehao Li, Kui Wu, Wei Li, Doug L. James
+- Code: https://github.com/stanford-gfxsim/BubbleGym
+- Project: https://stanford-gfxsim.github.io/BubbleGym
+- Dataset (10k nonspherical bubble meshes with ground-truth frequencies): https://stanford-gfxsim.github.io/BubbleGym/dataset
+
 **Mixwell: Sharp 2D Fluid Brushes for Progressive Physics-Based Mixing** (SIGGRAPH 2026)
 Doug L. James, Ethan James
 - Code: https://github.com/dougjam/mixwell-2026 (GLSL/HLSL reference implementations, Graphics Replicability Stamp)
